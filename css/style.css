@@ -1,0 +1,27 @@
+body{
+	/*background-color: lightpink;*/
+}
+
+.jumbotron{
+	background-color: lavender;
+}
+
+img{
+	margin-right:25px;
+}
+
+.panel-footer{
+	background-color: lightblue;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2{
+	color:teal;
+}
+
+h4{
+	font-size: 25px;
+}
